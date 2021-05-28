@@ -1,1 +1,2 @@
 # ICS2O-Unit5-06-GO-While-Loops
+[![GitHub's Super Linter](https://github.com/haokai-li/ICS2O-Unit5-06-GO-While-Loops/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/haokai-li/ICS2O-Unit5-06-GO-While-Loops/actions)
