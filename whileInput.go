@@ -25,7 +25,7 @@ func main() {
 
 	// detect
 	for time < second {
-		number = number + first
+		number += first
 		time ++
 	}
 	fmt.Println("Answer:", number)
